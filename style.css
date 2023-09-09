@@ -1,0 +1,49 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    padding: 15px;
+}
+
+header span{
+    padding-left: 37%;
+}
+
+.redborder{
+    border: 3px solid red;
+    margin: 1%;
+    margin-top: 5%;
+    padding: 1%;
+}
+
+.listBorder{
+    border: 3px solid red;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.all{
+    width: 60%;
+    height: auto;
+    margin-top: 3%;
+    margin-left: 4%;
+    padding: 0px;
+}
+
+footer p{
+    padding-left: 5px;
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+
+button, a{
+    width: 60px;
+    height: 30px;
+    border: 3px solid red;
+}
+a{
+    padding: 5px;
+}
